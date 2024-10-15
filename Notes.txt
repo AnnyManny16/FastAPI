@@ -1,0 +1,15 @@
+#HTTP verbs:
+1.GET --> It is used to retrieve the data from a particular  resource.
+2.POST-->Post is used to create a new  record to the specified resource.
+3.PUT--> It is used to update the record.
+4.Patch -->Used for oartial update.
+5.Dekete--> It is used to delete particular record from specified resource.
+
+
+echo "# FastAPI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AnnyManny16/FastAPI.git
+git push -u origin main
